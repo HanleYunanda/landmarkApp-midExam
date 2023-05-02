@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="Perancis" size="1.000000 1.000000" />
+    <ImageTarget name="Australia" size="1.000000 1.000000" />
+    <ImageTarget name="Indonesia" size="1.000000 1.000000" />
+    <ImageTarget name="America" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
